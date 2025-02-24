@@ -62,7 +62,8 @@ osTicket SLA configuration
 
 <p>
   
-![osTicketconfigdepartments](![412171473-01ffcc2f-6e1c-419d-a754-d75146711a48](https://github.com/user-attachments/assets/7b5d0dc3-1301-49f5-a718-059e80bc96f7)
+![osTicketconfigdepartments](https://github.com/user-attachments/assets/189304ab-e002-4093-b7e1-293d622c55d9)
+)
 )
 
 </p>
